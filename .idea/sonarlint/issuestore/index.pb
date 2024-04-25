@@ -1,0 +1,19 @@
+
+l
+<app/src/main/java/com/example/voiceassistant/MainActivity.kt,0\8\08250544e7fec5ab9f3338dd2f9e5925d978eece
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+b
+2app/src/main/java/com/example/voiceassistant/AI.kt,3\d\3d7ede2acfa25f95dcb47a016e40d7eae90583b8
+o
+?app/src/main/java/com/example/voiceassistant/message/Message.kt,b\2\b23564a1a45bd2b23127209f98c7b6de644f46a4
+z
+Japp/src/main/java/com/example/voiceassistant/message/MessageListAdapter.kt,8\f\8fde6057ebe747d1f28633c079fa7ecb6bca780a
+y
+Iapp/src/main/java/com/example/voiceassistant/message/MessageViewHolder.kt,a\1\a158e9b42176869fad2ddb3422740bcd9d65e884
+{
+Kapp/src/main/java/com/example/voiceassistant/holidays/ParsingHtmlService.kt,4\0\40f065b4eafe09f4f8e8d3dd0f61bcfa7dede63c
+k
+;app/src/main/java/com/example/voiceassistant/db/DBHelper.kt,5\f\5f6a1c96a0a679edebde3bd86d9764cc0980b1ca

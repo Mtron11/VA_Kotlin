@@ -1,0 +1,7 @@
+
+@kotlin:S1084")Either remove or fill this block of code.(å¥‡
+ikotlin:S101"MRename class "timeAnswer" to match the regular expression ^[A-Z][a-zA-Z0-9]*$(á±ûÿÿÿÿ
+ckotlin:S1192{"KDefine a constant instead of duplicating this literal "dd.MM.yyyy" 3 times.(â³²ì
+okotlin:S3776'"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ŒÓ†µúÿÿÿÿ
+_kotlin:S6510‹"AMove "return" statements from all branches before "if" statement.(ÒÒê„úÿÿÿÿ
+Zkotlin:S6511>"=Merge chained "if" statements into a single "when" statement.(Ìàİúÿÿÿÿ

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/mode_theme"
+        app:showAsAction="ifRoom"
+        android:title="@string/change_theme"
+        android:icon="@drawable/mode_night_theme_icon" />
+
+    <item android:id="@+id/voice_btn"
+        app:showAsAction="ifRoom"
+        android:title="@string/voice_on"
+        android:icon="@drawable/volume_on" />
+
+    <item android:id="@+id/clearMessages"
+        app:showAsAction="never"
+        android:title="@string/clearDialog"
+        android:orderInCategory="100" />
+</menu>

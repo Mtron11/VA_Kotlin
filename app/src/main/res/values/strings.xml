@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VoiceAssistent</string>
+    <string name="questionHint">Задайте вопрос</string>
+    <string name="sendButtonText">Отправить</string>
+    <string name="userName">Пользователь</string>
+    <string name="assistentName">Ассистент</string>
+    <string name="day_settings_name">Дневная тема</string>
+    <string name="night_settings_name">Ночная тема</string>
+    <string name="change_theme">Изменить тему</string>
+    <string name="voice_on">Включить озвучивание</string>
+    <string name="clearDialog">Очистить диалог</string>
+</resources>
